@@ -4,7 +4,7 @@ Your BUE HRM attendance, leaves and balance, checked against the attendance poli
 stays on your phone; the app only reads HRM, and sends a request only when you hold the button.
 
 ## Android
-Download and install: **[hrm-watcher.apk](https://github.com/liolah/hrm-watcher-releases/releases/latest/download/hrm-watcher.apk)** (version 1.0.0).
+Download and install: **[hrm-watcher.apk](https://github.com/liolah/hrm-watcher-releases/releases/latest/download/hrm-watcher.apk)** (version 1.0.1).
 Android asks once to allow installs from your browser. Later versions arrive by themselves.
 
 ## iPhone (free, in Expo Go)
